@@ -1,1 +1,1 @@
-# covid-19-tracer
+# covid19tracer.github.to
